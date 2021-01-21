@@ -1,1 +1,0 @@
-# wasify-frontend
